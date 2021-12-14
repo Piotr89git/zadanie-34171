@@ -1,0 +1,12 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+p.bluebox {
+    background-color: blue;
+}
+p.op {
+    opacity: 0.5;
+}
